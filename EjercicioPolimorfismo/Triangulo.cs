@@ -32,6 +32,7 @@ namespace EjercicioPolimorfismo
         public override double CalcularPerimetro()
         {
             return LadoA + LadoB + LadoC;
+
         }
     }
 }
